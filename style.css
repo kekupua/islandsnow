@@ -3,3 +3,9 @@
   box-shadow: 0 0;
   border: none;
 }
+
+.footer {
+  background:#292929;
+  padding: 20px 0;
+  color: white;
+}
